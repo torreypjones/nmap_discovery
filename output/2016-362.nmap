@@ -1,0 +1,12 @@
+# Nmap 6.40 scan initiated Tue Dec 27 03:04:44 2016 as: nmap -vvvvv -o -PE -PP -sS -sV -T5 --webxml -oA output/2016-362 172.17.0.1
+Nmap scan report for 172.17.0.1
+Host is up (0.0000090s latency).
+Scanned at 2016-12-27 03:04:44 UTC for 0s
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2 (protocol 2.0)
+MAC Address: 02:42:33:F8:0E:B8 (Unknown)
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+# Nmap done at Tue Dec 27 03:04:44 2016 -- 1 IP address (1 host up) scanned in 0.48 seconds
